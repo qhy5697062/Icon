@@ -1,0 +1,2 @@
+# Icon
+Quantumult X Icon
