@@ -1,0 +1,29 @@
+{
+  "id": "qhy5697062.app.sub",
+  "name": "qhy5697062应用订阅",
+  "author": "@qhy5697062",
+  "icon": "https://avatars.githubusercontent.com/u/58317346",
+  "repo": "https://github.com/qhy5697062/Icon/tree/master",
+  "apps": [
+    {
+      "id": "testflight",
+      "name": "tf自动加入",
+      "keys": ["@APP_ID"],
+      "settings": [
+        {
+          "id": "@APP_ID",
+          "name": "APP_ID",
+          "val": "",
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 1,
+          "desc":"以英文逗号分隔多个key"
+        }
+      ],
+      "author": "@qhy5697062",
+      "repo": "https://github.com/qhy5697062/Icon/tree/master",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/testflight.png", "https://raw.githubusercontent.com/Orz-3/mini/master/testflight.png"],
+      "script": "https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/testflight/Auto_join_TF.js"
+    }
+  ]
+}
