@@ -8,10 +8,10 @@
     {
       "id": "testflight",
       "name": "tf自动加入",
-      "keys": ["@APP_ID"],
+      "keys": ["APP_ID"],
       "settings": [
         {
-          "id": "@APP_ID",
+          "id": "APP_ID",
           "name": "APP_ID",
           "val": "",
           "type": "textarea",
