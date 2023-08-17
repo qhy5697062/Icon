@@ -7,7 +7,7 @@
   "apps": [
     {
       "id": "Auto_join_TF",
-      "name": "TestFlight自动加入",
+      "name": "TestFlight加入",
       "keys": ["APP_ID"],
       "settings": [
         {
