@@ -6,7 +6,7 @@
   "repo": "https://github.com/qhy5697062/Icon/tree/master",
   "apps": [
     {
-      "id": "APP_ID",
+      "id": "TestFlight",
       "name": "APP_ID",
       "keys": ["APP_ID"],
       "settings": [
@@ -21,7 +21,7 @@
       ],
       "author": "@qhy5697062",
       "repo": "https://github.com/qhy5697062/Icon/tree/master",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/testflight.png", "https://raw.githubusercontent.com/Orz-3/mini/master/testflight.png"],
+      "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Color/testflight.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/testflight.png"],
       "script": "https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/testflight/Auto_join_TF.js"
     }
   ]
