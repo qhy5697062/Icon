@@ -14,9 +14,8 @@
           "id": "APP_ID",
           "name": "APP_ID",
           "val": "",
-          "type": "textarea",
-          "autoGrow": true,
-          "rows": 1,
+          "type": "text",
+          "placeholder": "",
           "desc":"以英文逗号分隔多个key"
         }
       ],
