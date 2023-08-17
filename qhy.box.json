@@ -6,8 +6,8 @@
   "repo": "https://github.com/qhy5697062/Icon/tree/master",
   "apps": [
     {
-      "id": "testflight",
-      "name": "tf自动加入",
+      "id": "APP_ID",
+      "name": "APP_ID",
       "keys": ["APP_ID"],
       "settings": [
         {
