@@ -35,7 +35,7 @@
           "val": "",
           "type": "text",
           "placeholder": "",
-          "desc":"打开boxjs->我的->数据查看器,在数据键输入hgds_data,点击VIEW->在数据内容输入上面抓到的三个值，分别用#号连接，如openId#sessionKey#unionId，点击保存，多账号用@分隔"
+          "desc":"打开抓包，点击签到，抓https://haagendazs.smarket.com.cn/v1/api/wxapp/daily/signIn请求体的openId、sessionKey和unionId，输入抓到的三个值，分别用#号连接，如openId#sessionKey#unionId，点击保存，多账号用@分隔"
         }
       ],
       "author": "@qhy5697062",
