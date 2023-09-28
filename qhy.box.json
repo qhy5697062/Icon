@@ -23,7 +23,7 @@
       "repo": "https://github.com/qhy5697062/Icon/tree/master",
       "icons": ["https://raw.githubusercontent.com/NobyDa/mini/master/Color/testflight.png", "https://raw.githubusercontent.com/NobyDa/mini/master/Color/testflight.png"],
       "script": "https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/testflight/Auto_join_TF.js"
-    }
+    },
     {
       "id": "HGDS",
       "name": "哈根达斯",
