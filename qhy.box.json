@@ -25,8 +25,9 @@
       "script": "https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/testflight/Auto_join_TF.js"
     },
     {
-      "id": "HGDS",
-      "name": "哈根达斯",
+      "id": "hgds",
+      "name": "哈根达斯签到",
+      "desc_html": "⚠️使用说明</br>详情【<a href='https://github.com/Sliverkiss/GoodNight/blob/master/Script/hgds.js?raw=true'><font class='red--text'>点我查看</font></a>】",
       "keys": ["hgds_data"],
       "settings": [
         {
